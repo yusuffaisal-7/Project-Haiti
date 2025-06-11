@@ -143,12 +143,11 @@ For demonstration purposes, you can use the following admin credentials:
 ### Installation
 1.  **Clone the repositories**:
     ```bash
-    git clone [https://github.com/yusuffaisal-7/Project-Haiti](https://github.com/yusuffaisal-7/Project-Haiti) # Frontend
-    git clone [https://github.com/Rayhan-50/Lesson-paw-server](https://github.com/Rayhan-50/Lesson-paw-server) # Backend
+    git clone [https://github.com/yusuffaisal-7/Project-Haiti](https://github.com/yusuffaisal-7/Project-Haiti) # Frontend & Backend Integrated
     ```
 2.  **Navigate to the frontend directory**:
     ```bash
-    cd Lesson-paw
+    cd Project-Haiti
     ```
 3.  **Install frontend dependencies**:
     ```bash
@@ -156,7 +155,7 @@ For demonstration purposes, you can use the following admin credentials:
     # or
     yarn install
     ```
-4.  **Set up frontend environment variables**: Create a `.env` file in the `Lesson-paw` directory and add your Firebase configuration:
+4.  **Set up frontend environment variables**: Create a `.env` file in the `Project-Haiti` directory and add your Firebase configuration:
     ```env
     VITE_API_KEY=your_firebase_api_key
     VITE_AUTH_DOMAIN=your_firebase_auth_domain
@@ -175,7 +174,7 @@ For demonstration purposes, you can use the following admin credentials:
 
 6.  **Navigate to the backend directory**:
     ```bash
-    cd ../Lesson-paw-server
+    cd ../Lesson-p
     ```
 7.  **Install backend dependencies**:
     ```bash
@@ -203,8 +202,8 @@ For demonstration purposes, you can use the following admin credentials:
 
 LesonPaw is a collaborative effort by Professional Developer Engineers.
 
-### YusuF Faisal
-* **Role**: Lead Engineer & Developer, UI/UX Designer & System Architect
+### YusuF Faisal (Team Leader)
+* **Role**: Lead Engineer & Developer, Project Manager, UI/UX Designer & System Architect
 * **Portfolio**: [yusuf-faisal.netlify.app](https://yusuf-faisal.netlify.app)
 * **GitHub**: [@yusufoesta](https://github.com/yusuffaisal-7)
 * **Specializations**:
@@ -213,7 +212,7 @@ LesonPaw is a collaborative effort by Professional Developer Engineers.
     * **Design/ UI/ UX**: Figma, Framer, Color composition
 
 ### Rayhan Ahmed
-* **Role**: Lead Developer, System Architect 
+* **Role**: FullStack Developer, System Architect 
 * **Portfolio**: [adhesive-bed.surge.sh](https://adhesive-bed.surge.sh)
 * **GitHub**: [@rayhan](https://github.com/Rayhan-50)
 * **Specializations**:
