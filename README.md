@@ -143,7 +143,7 @@ For demonstration purposes, you can use the following admin credentials:
 ### Installation
 1.  **Clone the repositories**:
     ```bash
-    git clone [https://github.com/Rayhan-50/Lesson-paw](https://github.com/Rayhan-50/Lesson-paw) # Frontend
+    git clone [https://github.com/yusuffaisal-7/Project-Haiti](https://github.com/yusuffaisal-7/Project-Haiti) # Frontend
     git clone [https://github.com/Rayhan-50/Lesson-paw-server](https://github.com/Rayhan-50/Lesson-paw-server) # Backend
     ```
 2.  **Navigate to the frontend directory**:
@@ -199,22 +199,23 @@ For demonstration purposes, you can use the following admin credentials:
 
 ---
 
-## 👨‍💻 Developer Credits
+## 👨‍💻 Developer Engineer Credits
 
-LesonPaw is a collaborative effort by two talented full-stack developers.
+LesonPaw is a collaborative effort by Professional Developer Engineers.
 
-### Yusuf Faisal
-* **Role**: Lead Full-Stack Developer, UI/UX Designer & System Architect
+### YusuF Faisal
+* **Role**: Lead Engineer & Developer, UI/UX Designer & System Architect
 * **Portfolio**: [yusuf-faisal.netlify.app](https://yusuf-faisal.netlify.app)
-* **GitHub**: [@yusufoesta](https://github.com/yusufoesta)
+* **GitHub**: [@yusufoesta](https://github.com/yusuffaisal-7)
 * **Specializations**:
-    * **Frontend**: React.js Development, Responsive Design, User Experience, Component Architecture, State Management, Multi-language Implementation.
+    * **Frontend**: React.js Development,Smooth Web Apps, Responsive Design, User Experience, Component Architecture, State Management, Multi-language Implementation.
     * **Backend**: Node.js & Express.js, MongoDB Database Design, RESTful API Development, Authentication Systems, Server Architecture, Security Implementation.
+    * **Design/ UI/ UX**: Figma, Framer, Color composition
 
 ### Rayhan Ahmed
-* **Role**: Lead Full-Stack Developer, System Architect & UI/UX Designer
+* **Role**: Lead Developer, System Architect 
 * **Portfolio**: [adhesive-bed.surge.sh](https://adhesive-bed.surge.sh)
-* **GitHub**: [@rayhan](https://github.com/rayhan)
+* **GitHub**: [@rayhan](https://github.com/Rayhan-50)
 * **Specializations**:
     * **Frontend**: React.js Development, Modern UI/UX Design, Component Development, State Management, Animation & Interactions, Progressive Web Apps.
     * **Backend**: API Development, Database Architecture, Authentication Systems, Payment Integration, Server Optimization, Cloud Infrastructure.
@@ -222,4 +223,4 @@ LesonPaw is a collaborative effort by two talented full-stack developers.
 Both developers have made significant contributions across all aspects of the project, showcasing their expertise in full-stack development, system architecture, and modern web technologies.
 
 ---
-© 2024 LesonPaw. All Rights Reserved.
+© 2025 LesonPaw. All Rights Reserved.
