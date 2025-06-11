@@ -205,7 +205,7 @@ LesonPaw is a collaborative effort by Professional Developer Engineers.
 ### YusuF Faisal (Team Leader)
 * **Role**: Lead Engineer & Developer, Project Manager, UI/UX Designer & System Architect
 * **Portfolio**: [yusuf-faisal.netlify.app](https://yusuf-faisal.netlify.app)
-* **GitHub**: [@yusufoesta](https://github.com/yusuffaisal-7)
+* **GitHub**: [@YusuFFaisal](https://github.com/yusuffaisal-7)
 * **Specializations**:
     * **Frontend**: React.js Development,Smooth Web Apps, Responsive Design, User Experience, Component Architecture, State Management, Multi-language Implementation.
     * **Backend**: Node.js & Express.js, MongoDB Database Design, RESTful API Development, Authentication Systems, Server Architecture, Security Implementation.
