@@ -1,6 +1,6 @@
 # LesonPaw - Online Learning Platform
 
-![LesonPaw Logo](public/logo.png)
+![LesonPaw Logo](public/Logo.png)
 
 ---
 
